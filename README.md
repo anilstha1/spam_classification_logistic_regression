@@ -16,14 +16,14 @@ The project uses a `spamham.csv` dataset containing two columns:
 ## Usage
 1. Ensure all dependencies are installed:
 
-```bash
-pip install pandas matplotlib seaborn scikit-learn
-```
+    ```bash
+    pip install pandas matplotlib seaborn scikit-learn
+    ```
 
 2. Place your `spamham.csv` dataset in the project directory
 
 3. Run the Jupyter notebook:
 
-```bash
-jupyter notebook spam_detection.ipynb
-```
+    ```bash
+    jupyter notebook spam_detection.ipynb
+    ```
